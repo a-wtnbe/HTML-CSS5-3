@@ -8,11 +8,11 @@ header {
   width: 10%;
 }
 
-header .headline {
+.headline {
   font-size: 22px;
 }
 
-.nev {
+.nav {
   text-align: center;
 }
 
